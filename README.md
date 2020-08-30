@@ -1,6 +1,8 @@
 # Awesome Demo Game Project
 ## Google Summer of Code 2020 - Catrobat
 
+![Batroid-Banner](/images/banner.jpg)
+
 The Awesome Demo Game Project of Catrobat (GSoC 2020) required me to create a full- fledged game and a showcase-project on the award winning app ‘Pocket Code’ (available on both iOS and Android). I had to submit a proposal for a game idea which can be developed on the Pocket Code app. I made a prototype for my game with pixel art and some self-made music. I got the chance to be a part of Catrobat Community and make the complete game during this summer. The game is called  ‘Batroid’ which is inspired by the popular Nintendo title ‘Metroid’. A Metroid clone on Pocket Code truly shines and shows the potential of the app.
 I was solely responsible for all the game design, code and game art assets used in Batroid. Some music pieces were also composed by me. All the assets can be found in this repository. 
 
